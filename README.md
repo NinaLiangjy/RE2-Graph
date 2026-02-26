@@ -1,4 +1,4 @@
-# Refining Event Evolutionary Graphs for Explainable Classification (RE\textsuperscript{2}-Graph)
+# Refining Event Evolutionary Graphs for Explainable Classification ($\mathrm{RE}^2$-Graph)
 
 ## Prerequisites
 
@@ -76,5 +76,6 @@ python stage3_graph.py --dataset ./dataset/finance_data_tag_0.98.jsonl --wdir ./
 ```
 
 * **Performance Evaluation**: Outputs classification accuracy metrics for Top-3, Top-5, and Top-10.
+
 
 ---
